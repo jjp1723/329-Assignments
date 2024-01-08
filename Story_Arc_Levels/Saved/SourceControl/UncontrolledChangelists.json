@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc_Levels/Content/StarterContent/Props/MaterialSphere.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc_Levels/Content/FirstPerson/Maps/Ballroom.umap"
+			]
+		}
+	]
+}
