@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level1_StraightLines.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/TP/FFC988UTICJWHMJY1EHHWO.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level2_CurvedLines.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/Dominant_Mat.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/Soft_Mat.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level3_RepeatedShapes.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level5_SymetricalBalance.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level6_AsymetricalBalance.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level1_HorizontalVerticalLines.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level2_CurvedNaturalLines.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Basics_2/Content/FirstPerson/Maps/Level4_Patterns.umap"
+			]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation/Content/FirstPerson/Maps/Installation.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation/Content/M_BrickBuilding.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation/Content/M_Window.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation/Content/M_BrickBuilding_1.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/M_RottedWood.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/M_DarkWall.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/FirstPerson/Maps/Installation.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/M_BlueSky.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/zapsplat_horror_swell_ghostly_descending_eeire_depressing_001_92743.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/ambience_city_london_uk_park_millbank_gardens_002.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2/Content/FirstPerson/Maps/Void.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2 5.2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2 5.2/Content/FirstPerson/Maps/Installation.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2 5.2/Content/M_Grass.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Art_Installation 5.2 5.2/Content/zapsplat_horror_drone_atmos_evolving_dark_evil_sinister_tense_synth_arpeggio_elements_45124.uasset"
+			]
+		}
+	]
+}
