@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc/Content/ThirdPerson/Maps/Level1_Beginning.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc/Content/ThirdPerson/Maps/Level2_Middle.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc/Content/ThirdPerson/Maps/Level2_Middle_2.umap",
+				"D:/(School) RIT/FNTR 329 - Virtual Worlds/Exercises/Story_Arc/Content/ThirdPerson/Maps/Level2_End.umap"
+			]
+		}
+	]
+}
